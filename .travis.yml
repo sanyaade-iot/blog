@@ -8,6 +8,6 @@ script: bundle exec jekyll build
 after_success:
   - git config --global user.name ${GIT_NAME}
   - git config --global user.email ${GIT_EMAIL}
-  - git config credential.helper "store --file=.git/credentials"
-  - echo "https://zsup:${GH_TOKEN}@github.com" > .git/credentials
+#  - git config credential.helper "store --file=.git/credentials"
+#  - echo "https://zsup:${GH_TOKEN}@github.com" > .git/credentials
   - ./travis.sh

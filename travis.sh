@@ -1,8 +1,5 @@
 #!/bin/bash
 
-git config user.name $GIT_NAME
-git config user.email $GIT_EMAIL
-
 if [[ $TRAVIS_BRANCH == 'staging' ]]
 then
   bundle exec rake site:staging

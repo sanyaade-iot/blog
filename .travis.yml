@@ -5,4 +5,9 @@ env:
   global:
     - secure: "U/WpXyQz4QDAIBBmscZg1zTMw555eVbDqhvIaCmVtsy6ySqsrF7mW84Wu86LUWzWEQ87DDxmdUTbrQGsXPQvGRojG2Vz68ZhNWMKg1KSbTURb2YGbAecbfR/SeQMy0RVEVef92GCInag2vnpgwwWRlTUwVck4MhTjBvIdOOWUDs="
 script: bundle exec jekyll build
-after_success: ./travis.sh
+after_success:
+  - git config user.name ${GIT_NAME}
+  - git config user.email ${GIT_EMAIL}
+  - git config credential.helper "store --file=.git/credentials"
+  - echo "https://${GH_TOKEN}:@github.com" > .git/credentials
+  - ./travis.sh

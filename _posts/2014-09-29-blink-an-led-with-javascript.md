@@ -52,7 +52,7 @@ Using the Open Weather Map API and the node request module, I wrote a quick scri
 
 Video of result, and code below!
 
-[video]
+<iframe class="full" width="750" height="422" src="//www.youtube.com/embed/6nBO6RJOfME" frameborder="0" allowfullscreen>&nbsp;</iframe>
 
 <script src="https://gist.github.com/cmsunu28/2eb3d875c1418255970c.js"></script>
 

@@ -59,6 +59,6 @@ Video of result, and code below!
 
 Documentation on SparkJS is available here:
 
-http://docs.spark.io/javascript/
+[http://docs.spark.io/javascript/](http://docs.spark.io/javascript)
 
 Let us know what you think and share all your lovely projects on the [Spark Community](https://community.spark.io). Have fun!

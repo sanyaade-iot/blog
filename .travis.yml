@@ -1,5 +1,8 @@
 language: ruby
 rvm:
 - 2.0
+env:
+  global:
+    - secure: "U/WpXyQz4QDAIBBmscZg1zTMw555eVbDqhvIaCmVtsy6ySqsrF7mW84Wu86LUWzWEQ87DDxmdUTbrQGsXPQvGRojG2Vz68ZhNWMKg1KSbTURb2YGbAecbfR/SeQMy0RVEVef92GCInag2vnpgwwWRlTUwVck4MhTjBvIdOOWUDs="
 script: bundle exec jekyll build
 after_success: ./travis.sh

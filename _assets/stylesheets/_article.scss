@@ -227,6 +227,10 @@ article {
             transition:0.5s all ease;
         }
 
+        pre {
+          width: inherit;
+        }
+
 
         &.zoomable {
             img {

@@ -38,7 +38,7 @@ Deployment is now done automatically by Travis CI. To publish the blog to stagin
 
 ## Publish to production
 
-To publish the blog to staging, simply merge your changes into the `master` branch.
+To publish the blog to production, simply merge your changes into the `master` branch.
 
 ## Authors
 

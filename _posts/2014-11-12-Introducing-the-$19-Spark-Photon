@@ -1,10 +1,10 @@
 ---
 layout: post
 
-title: Introducing the $19
+title: Introducing the $19 Spark Photon
 cover_image: blog-cover.jpg
 
-excerpt: Use SparkJS to easily connect to your Spark Core.
+excerpt: Our new wi-fi dev kit based on Broadcom's WICED architecture
 
 author:
   name: Zach Supalla
@@ -25,8 +25,6 @@ In case you're not feeling the length of this post, here's the short version:
 - We'll also be selling **our own Wi-Fi modules - the P0 and P1 - for $10 and $12** respectively, in low volumes (10 units). These modules come with free cloud service, so they'll do everything the Photon does, and they'll come pre-programmed with our firmware. We're doing this to help you transition from a prototype to a manufacturable product.
 - We've got accessories from our friends at **IDEO, Adafruit, Seeed Studio, and Fritzing**! They love us, and we love them.
 - We've also launched **[Spark Dev](http://www.github.com/spark/spark-dev), our professional IDE** built on Github's open source Atom project. Available today!
-- Head over to the new [Spark Store](http://store.spark.io/?utm_source=Community&utm_medium=Post&utm_term=Store&utm_content=toplink&utm_campaign=CommunityLaunch) and use the password `timetojointheiot` to get in. Free domestic shipping for the first 1,000 orders!
-- Want to help us spread the word? **[Join our Thunderclap](https://www.thunderclap.it/projects/18789-timetojointheiot?locale=en)** to get the word out about the Photon when it's announced publicly tomorrow!
 
 Now for the long version:
 

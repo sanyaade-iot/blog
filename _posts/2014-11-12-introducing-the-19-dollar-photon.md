@@ -41,7 +41,7 @@ The Spark Core was a great beginning for us, and was the first affordable and wi
 
 If you take a look around, you'll find that all of the best connected products on the market are built with the same chipset: Broadcom's BCM43362. This chip powers the Nest Protect, LIFX, and more. Broadcom's chips are in most of the Wi-Fi routers on the market as well, which means they can offer the best router compatibility, the most experience, and the most stable solution on the market.
 
-<div class="full"><img src="{{ site.url }}/images/table.jpg"></div>
+<img src="{{ site.url }}/images/comparison.png">
 
 The Photon adapts the architecture we built around the CC3000 to our new Wi-Fi module, which we call the P0. The P0 pairs Broadcom's BCM43362 Wi-Fi chip with an STM32F205 microcontroller. Besides being a major step forward in reliability, the Photon is more powerful than the Core; we've ramped up from 72Mhz to 120Mhz, from 128KB of flash to 1MB of flash, and from 20KB of RAM to 128KB of RAM. And it's also a good deal cheaper; you can now pre-order a Photon for $19.
 

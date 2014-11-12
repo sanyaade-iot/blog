@@ -1,32 +1,29 @@
 ---
 layout: post
 
-title: Introducing the $19 Spark Photon
+title: Introducing the $19 Photon
 cover_image: blog-cover.jpg
 
-excerpt: Our new wi-fi dev kit based on Broadcom's WICED architecture
+excerpt: Our new tiny Wi-Fi development kit, based on Broadcom's WICED architecture
 
 author:
   name: Zach Supalla
   twitter: zsupalla
   bio: CEO
-  image: 
+  image: zach.jpg
 ---
 <div class="full"><img src="{{ site.url }}/images/photon-banner.jpg"></div>
 
 Dearest Spark friends,
 
-Our new hardware is here! As a thank you for your support and involvement in our community, we're giving you early (and secret!) access to our store which means you have the first chance to pre-order the new Photon and get in on our first production run. Only members of this site will be able to view this message today!
-
-<div class="full"><a href=https://store.spark.io/?utm_source=SparkBlog&utm_medium=blog&utm_term=PreOrder&utm_content=Button&utm_campaign=BlogButton><img src="{{ site.url }}/images/PreButton.jpg"></a></div>
-
-
-In case you're not feeling the length of this post, here's the short version:
+Our new hardware is here! In case you're not feeling the length of this post, here's the short version:
 
 - Today we're launching **our new development kit, the Photon**! It's the spiritual sequel to the Spark Core (backwards compatible), and it's faster, better, and cheaper. You can pre-order it now for $19, and we're targeting March 2015 for delivery.
-- We'll also be selling **our own Wi-Fi modules - the P0 and P1 - for $10 and $12** respectively, in low volumes (10 units). These modules come with free cloud service, so they'll do everything the Photon does, and they'll come pre-programmed with our firmware. We're doing this to help you transition from a prototype to a manufacturable product.
+- We're also selling **our own Wi-Fi modules - the P0 and P1 - for $10 and $12** respectively, in low volumes (10 units). These modules come with free cloud service, so they'll do everything the Photon does, and they'll come pre-programmed with our firmware. We're doing this to help you transition from a prototype to a manufacturable product.
 - We've got accessories from our friends at **IDEO, Adafruit, Seeed Studio, and Fritzing**! They love us, and we love them.
 - We've also launched **[Spark Dev](http://www.github.com/spark/spark-dev), our professional IDE** built on Github's open source Atom project. Available today!
+
+<a class="btn" href=https://store.spark.io/?utm_source=SparkBlog&utm_medium=blog&utm_term=PreOrder&utm_content=Button&utm_campaign=BlogButton>Pre-order a Photon for $19</a>
 
 Now for the long version:
 
@@ -34,7 +31,7 @@ A year ago we began shipping Spark Cores to our Kickstarter backers and our comm
 
 Our community of developers, engineers, designers, students, and artists has grown to more than 20,000. Our team has grown to more than 20 people, including a number of our top community members, and spans the world, from our headquarters in San Francisco and office in Minneapolis to Norway, Poland and Shenzhen.
 
-We've learned a ton, and we've had the opportunity to build that knowledge and the amazing feedback we've received over the last year into a new product, which we're launching publicly tomorrow, and privately to our Kickstarter backers and community today. Please welcome to the Spark family our newest addition: **the Photon!**
+We've learned a ton, and we've had the opportunity to build that knowledge and the amazing feedback we've received over the last year into a new product, which we're launching today. Please welcome to the Spark family our newest addition: **the Photon!**
 
 <div class="full"><img src="{{ site.url }}/images/Photon.jpg"></div>
 
@@ -66,7 +63,7 @@ If you're interested in purchasing larger volumes, please [contact us](mailto:sa
 
 ## Accessories from our friends at IDEO, Adafruit, Seeed Studio, and Fritzing
 
-The Photon is at its best when surrounded by friends, so we called on a few friends of our own to make sure it wasn't lonely.
+The Photon is at its best when it teams up with others, so we called on a few friends to make sure it doesn't get lonely.
 
 We've invited along some of the top names in prototyping and development tools. Check this out:
 
@@ -92,16 +89,16 @@ A couple of months back, one of our community members, @suda, started building a
 
 At first glance, Spark Dev looks and feels much like our web IDE. In fact it has many of the same capabilities; you can compile and deploy firmware over the air, just like the web IDE. However, it can also do a lot more; besides pulling in a lot of the features of our command line tool, the [Spark CLI](http://www.github.com/spark/spark-cli), Spark Dev is extensible. You can install any existing package for Atom, or create your own packages using JavaScript and Coffeescript. We've got our own additional features in mind, but we can't wait to see yours!
 
-Oh yeah, we should mention that **we're offering free shipping on our first 1,000 domestic orders.**
+## Order a Photon today!
 
 To pre-order your Photons, modules, and accessories, visit our new store:
 
-[Spark Store](https://store.spark.io/?utm_source=SparkBlog&utm_medium=blog&utm_term=SparkStore&utm_content=Button&utm_campaign=BlogStoreButton)
+<a class="btn" href=https://store.spark.io/?utm_source=SparkBlog&utm_medium=blog&utm_term=PreOrder&utm_content=Button&utm_campaign=BlogButton>Visit the Spark Store</a>
+
+Oh yeah, we should mention that **we're offering free shipping on our first 1,000 domestic orders.**
 
 As always, we'd love to hear from you over on our [community site](http://community.spark.io/)! Your support and feedback are always appreciated.
 
-Much love, 
+Much love,
 
-- Zach and the Spark team
-
-
+Zach and the Spark team

@@ -12,12 +12,14 @@ author:
   bio: CEO
   image: 
 ---
+<div class="full"><img src="{{ site.url }}/images/photon-banner.jpg"></div>
 
 Dearest Spark friends,
 
 Our new hardware is here! As a thank you for your support and involvement in our community, we're giving you early (and secret!) access to our store which means you have the first chance to pre-order the new Photon and get in on our first production run. Only members of this site will be able to view this message today!
 
-[Preorder now for $19][1] (http://store.spark.io/?utm_source=Community&utm_medium=Post&utm_term=Store&utm_content=toplink&utm_campaign=CommunityLaunch)
+<div class="full"><a href=https://store.spark.io/?utm_source=SparkBlog&utm_medium=blog&utm_term=PreOrder&utm_content=Button&utm_campaign=BlogButton><img src="{{ site.url }}/images/PreButton.jpg"></a></div>
+
 
 In case you're not feeling the length of this post, here's the short version:
 
@@ -34,7 +36,7 @@ Our community of developers, engineers, designers, students, and artists has gro
 
 We've learned a ton, and we've had the opportunity to build that knowledge and the amazing feedback we've received over the last year into a new product, which we're launching publicly tomorrow, and privately to our Kickstarter backers and community today. Please welcome to the Spark family our newest addition: **the Photon!**
 
-https://s3.amazonaws.com/spark-website/photon-announcement/Photon.jpg
+<div class="full"><img src="{{ site.url }}/images/Photon.jpg"></div>
 
 ## The Photon: $19 of betterness
 
@@ -42,13 +44,13 @@ The Spark Core was a great beginning for us, and was the first affordable and wi
 
 If you take a look around, you'll find that all of the best connected products on the market are built with the same chipset: Broadcom's BCM43362. This chip powers the Nest Protect, LIFX, and more. Broadcom's chips are in most of the Wi-Fi routers on the market as well, which means they can offer the best router compatibility, the most experience, and the most stable solution on the market.
 
-https://s3.amazonaws.com/spark-website/photon-announcement/comparison.png
+<div class="full"><img src="{{ site.url }}/images/table.jpg"></div>
 
 The Photon adapts the architecture we built around the CC3000 to our new Wi-Fi module, which we call the P0. The P0 pairs Broadcom's BCM43362 Wi-Fi chip with an STM32F205 microcontroller. Besides being a major step forward in reliability, the Photon is more powerful than the Core; we've ramped up from 72Mhz to 120Mhz, from 128KB of flash to 1MB of flash, and from 20KB of RAM to 128KB of RAM. And it's also a good deal cheaper; you can now pre-order a Photon for $19.
 
 The Photon is nearly 100% backwards compatible with the Spark Core, as well as having additional capabilities such as a Digital to Analog Converter (DAC) peripheral and an exposed wake-up pin for low power modes. Plus the software that you've written for the Spark Core should work seamlessly with the Photon, although we'll need your help testing our firmware to get as close as possible to 100% compatibility. Furthermore, we're rebuilding our firmware upon a Hardware Abstraction Layer (HAL) so that we can support a variety of hardware platforms in the future.
 
-https://s3.amazonaws.com/spark-website/photon-announcement/P10.jpg
+<div class="full"><img src="{{ site.url }}/images/P10.jpg"></div>
 
 ## The P0: our $10 Wi-Fi module, with free cloud service
 
@@ -60,7 +62,7 @@ For those who want nothing to do with antennas or RF or any of that nonsense, we
 
 If you're interested in purchasing larger volumes, please [contact us](mailto:sales@spark.io).
 
-https://s3.amazonaws.com/spark-website/photon-announcement/Accessories.jpg
+<div class="full"><img src="{{ site.url }}/images/Screenshotkits copy.jpg"></div>
 
 ## Accessories from our friends at IDEO, Adafruit, Seeed Studio, and Fritzing
 
@@ -86,24 +88,20 @@ Introducing [Spark Dev](http://www.github.com/spark/spark-dev)!
 
 A couple of months back, one of our community members, @suda, started building a Spark plug-in for Github's new open source [Atom project](http://www.atom.io). We loved his work so much that we hired him onto the Spark team to continue his development, which has grown into a brand new open source IDE for Mac and Windows: Spark Dev!
 
-https://s3.amazonaws.com/spark-website/photon-announcement/IDE.jpg
+<div class="full"><img src="{{ site.url }}/images/IDE.jpg"></div>
 
 At first glance, Spark Dev looks and feels much like our web IDE. In fact it has many of the same capabilities; you can compile and deploy firmware over the air, just like the web IDE. However, it can also do a lot more; besides pulling in a lot of the features of our command line tool, the [Spark CLI](http://www.github.com/spark/spark-cli), Spark Dev is extensible. You can install any existing package for Atom, or create your own packages using JavaScript and Coffeescript. We've got our own additional features in mind, but we can't wait to see yours!
 
-## Help us spread the word
-
-Although we love all of our customers, we love you guys the most. You helped us make our dreams a reality, and so to thank you, we're offering free shipping on our first 1,000 orders, and giving you guys first crack at it!
+Oh yeah, we should mention that **we're offering free shipping on our first 1,000 domestic orders.**
 
 To pre-order your Photons, modules, and accessories, visit our new store:
 
-[Spark Store](http://store.spark.io/?utm_source=Community&utm_medium=Post&utm_term=Store&utm_content=toplink&utm_campaign=CommunityLaunch)
+[Spark Store](https://store.spark.io/?utm_source=SparkBlog&utm_medium=blog&utm_term=SparkStore&utm_content=Button&utm_campaign=BlogStoreButton)
 
-If you're up for helping us spread the word,
+As always, we'd love to hear from you over on our [community site](http://community.spark.io/)! Your support and feedback are always appreciated.
 
-That's all for now, guys. Thanks for your support and we hope you enjoy the new stuff!
+Much love, 
 
-You're our favorite,
 - Zach and the Spark team
 
 
-  [1]: http://store.spark.io/?utm_source=Community&utm_medium=Post&utm_term=Store&utm_content=toplink&utm_campaign=CommunityLaunch

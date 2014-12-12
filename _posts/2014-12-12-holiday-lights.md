@@ -34,7 +34,7 @@ https://www.youtube.com/watch?v=qrIeK0qqG94
 
 I hope if you're reading this that you're feeling inspired to make your own Holiday Cheer system!  Jump over to the <a href="http://www.hackster.io/middleca/holiday-cheer-lights">Holiday Cheer Lights build post on Hackster to read more about how we put it together.</a>
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/qrIeK0qqG94" frameborder="0" allowfullscreen></iframe>
+<iframe class="full" width="750" height="422" src="//www.youtube.com/embed/qrIeK0qqG94" frameborder="0" allowfullscreen>&nbsp;</iframe>
 
 Happy Holidays!
 

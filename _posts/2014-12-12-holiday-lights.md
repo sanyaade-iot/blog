@@ -28,7 +28,11 @@ We had plenty Spark Cores, so naturally the decorations could react to input fro
 But what should we use as input? If only there were something worldwide, something contagious, something appropriate for the season.
 But of course!  They would be powered by, and generate Holiday Cheer.
 
-<div class="full"><img src="{{ site.url }}/images/20141212/tree_crop.png"></div>
+<div class="full">
+<a href="http://www.hackster.io/middleca/holiday-cheer-lights">
+    <img src="{{ site.url }}/images/20141212/tree_crop.png">
+</a>
+</div>
 
 I hope if you're reading this that you're feeling inspired to make your own Holiday Cheer system!  Jump over to the <a href="http://www.hackster.io/middleca/holiday-cheer-lights">Holiday Cheer Lights build post to read more about how we put it together.</a>
 

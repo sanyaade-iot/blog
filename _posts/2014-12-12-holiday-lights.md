@@ -15,18 +15,17 @@ author:
 
 Happy Holidays from Spark!
 
-Last week many of us Sparklers met in person for the first time at our first big holiday party and hackathon!
+While our HQ is in SF, our team is actually spread out all over the globe. Last week was the first time that every single Spark team member was in the same room at the same time - an occassion which called for our first big holiday party and hackathon!
 It was awesome, and we'll be posting more fun projects from the hackathon soon.  In decorating for the party, Christine
-insisted the tree be internet connected, and so we excitedly set off to work.  Here's what we built:
+naturally insisted our tree be internet connected, and so we excitedly set off to work, creating something worthy of a Spark holiday party.  Here's what we built:
 
 
 Internet connected cheer lights and buttons!
 ----------
 
 Since it was a party, the lights needed to be something that would engage everyone and be interactive.  
-We had plenty Spark Cores, so naturally the decorations could react to input from anywhere in the world.
-But what should we use as input? If only there were something worldwide, something contagious, something appropriate for the season.
-But of course!  They would be powered by, and generate Holiday Cheer.
+
+We had plenty of Spark Cores, so naturally the decorations could react to input from anywhere in the world. But what should we use as input? If only there were something worldwide...something contagious...something appropriate for the season...But of course!  The decorations would be powered by and generate Holiday Cheer.
 
 <div class="full">
 <a href="http://www.hackster.io/middleca/holiday-cheer-lights">
@@ -35,7 +34,7 @@ https://www.youtube.com/watch?v=qrIeK0qqG94
 </a>
 </div>
 
-I hope if you're reading this that you're feeling inspired to make your own Holiday Cheer system!  Jump over to the <a href="http://www.hackster.io/middleca/holiday-cheer-lights">Holiday Cheer Lights build post to read more about how we put it together.</a>
+I hope if you're reading this that you're feeling inspired to make your own Holiday Cheer system!  Jump over to the <a href="http://www.hackster.io/middleca/holiday-cheer-lights">Holiday Cheer Lights build post on Hackster to read more about how we put it together.</a>
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/qrIeK0qqG94" frameborder="0" allowfullscreen></iframe>
 

@@ -10,7 +10,7 @@ author:
   name: David Middlecamp
   twitter: dmiddlecamp
   bio: Cloud Guy
-  image: david.jpg
+  image: david_cube.jpg
 ---
 
 Happy Holidays from Spark!
@@ -30,7 +30,8 @@ But of course!  They would be powered by, and generate Holiday Cheer.
 
 <div class="full"><img src="{{ site.url }}/images/20141212/tree_crop.png"></div>
 
-I hope if you're reading this that you're feeling inspired to make your own Holiday Cheer system!  Jump over to the build post to read more about how we put it together.
+I hope if you're reading this that you're feeling inspired to make your own Holiday Cheer system!  Jump over to the <a href="http://www.hackster.io/middleca/holiday-cheer-lights">Holiday Cheer Lights build post to read more about how we put it together.</a>
 
 Happy Holidays!
+
 David

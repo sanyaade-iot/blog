@@ -27,7 +27,6 @@ We had plenty of Spark Cores, so naturally the decorations could react to input 
 
 <div class="full">
 <a href="http://www.hackster.io/middleca/holiday-cheer-lights">
-https://www.youtube.com/watch?v=qrIeK0qqG94
     <img src="{{ site.url }}/images/20141212/tree_crop.png">
 </a>
 </div>

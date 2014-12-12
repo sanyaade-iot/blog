@@ -15,21 +15,22 @@ author:
 
 Happy Holidays from Spark!
 
-Last week many of us Sparklers met eachother in person for the first time at our first big holiday party and hackathon!
-It was awesome, and I hope you'll get to see all the results of the hackathon soon.  In decorating for the party, Christine
-insisted our hacked ladder tree be internet connected, so we set off to work.  Here's what we built:
+Last week many of us Sparklers met in person for the first time at our first big holiday party and hackathon!
+It was awesome, and we'll be posting more fun projects from the hackathon soon.  In decorating for the party, Christine
+insisted the tree be internet connected, and so we excitedly set off to work.  Here's what we built:
+
 
 Internet connected cheer lights and buttons!
+----------
 
-Since it was a party, I wanted the lights to be interactive, and not just from anywhere in the room, but from anywhere in the world!
-I started with our 
+Since it was a party, the lights needed to be something that would engage everyone and be interactive.  
+We had plenty Spark Cores, so naturally the decorations could react to input from anywhere in the world.
+But what should we use as input? If only there were something worldwide, something contagious, something appropriate for the season.
+But of course!  They would be powered by, and generate Holiday Cheer.
 
+<div class="full"><img src="{{ site.url }}/images/20141212/tree_crop.png"></div>
 
-Our firmware needed to be quick and easy to write.  We picked red and green as our base palette, and the firmware simply alternated colors,
-randomly picking a low intensity.  The core would subscribe to the public "cheer" event stream, and go crazy when cheer was detected.  We
-also built and spread out a few Cores around the office so that anyone hitting a button would generate holiday cheer and make the tree go wild.
-
-You can find more build pictures, and full source code here at 
+I hope if you're reading this that you're feeling inspired to make your own Holiday Cheer system!  Jump over to the build post to read more about how we put it together.
 
 Happy Holidays!
 David

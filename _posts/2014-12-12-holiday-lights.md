@@ -15,9 +15,7 @@ author:
 
 Happy Holidays from Spark!
 
-While our HQ is in SF, our team is actually spread out all over the globe. Last week was the first time that every single Spark team member was in the same room at the same time - an occassion which called for our first big holiday party and hackathon!
-It was awesome, and we'll be posting more fun projects from the hackathon soon.  In decorating for the party, Christine
-naturally insisted our tree be internet connected, and so we excitedly set off to work, creating something worthy of a Spark holiday party.  Here's what we built:
+Although Spark Headquarters is in San Francisco, CA, our team is usually spread out all over the globe. Last week was the first time that every single Spark team member was in the same room at the same time - an occassion which called for our first big holiday party and hackathon!  It was awesome, and we'll be posting more fun projects from the hackathon soon.  In decorating for the party, Christine naturally insisted our tree be internet connected, and so we excitedly set off to work, creating something worthy of a Spark holiday party.  Here's what we built:
 
 
 Internet connected cheer lights and buttons!

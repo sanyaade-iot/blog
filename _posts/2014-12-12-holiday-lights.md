@@ -30,11 +30,14 @@ But of course!  They would be powered by, and generate Holiday Cheer.
 
 <div class="full">
 <a href="http://www.hackster.io/middleca/holiday-cheer-lights">
+https://www.youtube.com/watch?v=qrIeK0qqG94
     <img src="{{ site.url }}/images/20141212/tree_crop.png">
 </a>
 </div>
 
 I hope if you're reading this that you're feeling inspired to make your own Holiday Cheer system!  Jump over to the <a href="http://www.hackster.io/middleca/holiday-cheer-lights">Holiday Cheer Lights build post to read more about how we put it together.</a>
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/qrIeK0qqG94" frameborder="0" allowfullscreen></iframe>
 
 Happy Holidays!
 

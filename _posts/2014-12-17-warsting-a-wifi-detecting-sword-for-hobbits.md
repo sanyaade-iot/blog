@@ -1,10 +1,10 @@
 ---
 layout: post
 
-title: "WarSting: A Wi-Fi detecting hobbit sword"
+title: "WarSting: A Wi-Fi scanning sword for Hobbits."
 cover_image: blog-cover.jpg
 
-excerpt: We hacked a toy sword to make a WarDriving hacker... sword.
+excerpt: We hacked a toy sword to make it turn blue near unsecured Wi-Fi networks.
 
 author:
   name: Zach Supalla
@@ -25,11 +25,11 @@ But what if Sting could detect unsecured Wi-Fi networks?
 
 To celebrate the launch of the new *Hobbit* flick, we made a version of Sting that turns blue near unsecured Wi-Fi networks. And when you slash the sword, Sting will jump on the network, and publish a message: "{YOUR WI-FI NETWORK} has been vanquished!"
 
-**VIDEO OF THE AWESOMENESS**
+<div class="full"><iframe width="750" height="422" src="//www.youtube.com/embed/rmjkUv5OtLM" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe></div>
 
 This hack is inspired by one of our favorite recent projects, [WarKitteh](http://www.wired.com/2014/08/how-to-use-your-cat-to-hack-your-neighbors-wi-fi/), in which a Siamese cat named Coco was enlisted to wardrive his owner's neighborhood. Hobbits are known to travel further than the typical housecat, and therefore make great wardrivers.
 
-## Step 1: the ingredients
+## Step 1: The ingredients
 
 To make your own WarSting, you'll need two things: a [toy Sting](http://www.amazon.com/The-Bridge-Direct-Hobbit-Deluxe/dp/B008914XZA/), and a [Spark Core](https://store.spark.io).
 
@@ -94,4 +94,8 @@ Power up your new WarSting, and when the sword turns blue, start slashing! If yo
 
 ## In conclusion
 
-So there you have it! Enjoy your hobbit journey, and if you're interested in more fun projects, check out the [Spark project site on Hackster](https://spark.hackster.io) for all kinds of inspiration.
+So there you have it! If you want to build your own WarSting or create your own wardriving product, fork our Github repo:
+
+[www.github.com/spark/warsting](http://www.github.com/spark/warsting)
+
+Enjoy your hobbit journey, and if you're interested in more fun projects, check out the [Spark project site on Hackster](https://spark.hackster.io) for all kinds of inspiration!

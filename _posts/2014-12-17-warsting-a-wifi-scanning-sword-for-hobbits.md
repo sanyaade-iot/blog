@@ -43,7 +43,7 @@ A toy company named *The Bridge Direct, Inc.* sells (next to Power Rangers and J
 - It's held together with screws, which gives us access to the internals.
 - There's a bit of extra space in the hilt that we can cram stuff into.
 
-The other thing you'll need is a [Spark Core](https://store.spark.io), which is a Wi-Fi dev kit - sort of like a Wi-Fi connected Arduino. It's a reprogrammable chip that has a Wi-Fi network and can interact with sensors and actuators, like the ones in the sword.
+The other thing you'll need is a [Spark Core](https://store.spark.io), a Wi-Fi development kit - sort of like a Wi-Fi connected Arduino. It's a reprogrammable chip that has a Wi-Fi module on board and can interact with sensors and actuators, like the ones in the sword.
 
 <div class="full"><img src="{{ site.url }}/images/core-and-hilt.jpg"></div>
 
@@ -98,4 +98,4 @@ So there you have it! If you want to build your own WarSting or create your own 
 
 [www.github.com/spark/warsting](http://www.github.com/spark/warsting)
 
-Enjoy your hobbit journey, and if you're interested in more fun projects, check out the [Spark project site on Hackster](https://spark.hackster.io) for all kinds of inspiration!
+Enjoy your hobbit journey, and if you're interested in more fun projects, check out the [Spark project site on Hackster](http://spark.hackster.io) for all kinds of inspiration!

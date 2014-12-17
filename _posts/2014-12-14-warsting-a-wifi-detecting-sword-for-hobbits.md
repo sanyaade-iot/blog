@@ -76,7 +76,7 @@ This hack is pretty straightforward; it's simply a matter of cutting the wires i
 
 ## Step 4: Reprogram the Core with network-vanquishing firmware
 
-We've written a firmware application designed for the WarSting that scans for unsecured networks, makes sounds, blinks the LEDs, and publishes messages from the unsecured network. All in, it's about three hundred lines of code. Here's a sample in a gist gist:
+We've written a firmware application designed for the WarSting that scans for unsecured networks, makes sounds, blinks the LEDs, and publishes messages from the unsecured network. All in, it's about three hundred lines of code. Here's a sample in a gist:
 
 <script src="https://gist.github.com/zsup/bfa7726adf375f4a744f.js"></script>
 

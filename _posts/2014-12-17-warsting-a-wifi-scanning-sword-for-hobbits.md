@@ -98,4 +98,8 @@ So there you have it! If you want to build your own WarSting or create your own 
 
 [www.github.com/spark/warsting](http://www.github.com/spark/warsting)
 
+To get a Spark Core (or our recently announced Photon), visit our store here:
+
+<a class="btn" href=https://store.spark.io/?utm_source=SparkBlog&utm_medium=blog&utm_term=PreOrder&utm_content=Button&utm_campaign=WarSting>Buy a Core or Photon now</a>
+
 Enjoy your hobbit journey, and if you're interested in more fun projects, check out the [Spark project site on Hackster](http://spark.hackster.io) for all kinds of inspiration!

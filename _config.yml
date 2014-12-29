@@ -6,14 +6,14 @@ inc:
   logo:         logo.png
 
   # Company information
-  company:      Spark Labs, Inc.
+  company:      Spark IO
   url:          https://www.spark.io/
   facebook:     sparkdevices
-  twitter:      sparkdevices
+  twitter:      spark_io
   gplus:        '103630479015185085726'
 
   # Product Information
-  product_link: http://www.spark.io/
+  product_link: https://store.spark.io/
   tagline:      "Wi-Fi for Everything"
 
   # Comments
